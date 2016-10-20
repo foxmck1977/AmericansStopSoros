@@ -36,11 +36,11 @@ tl;dr: George Soros is loosely involved with a company (Smartmatic) that supplie
 
 Ranked by importance: 
 
-1. California (55)
-2. Florida (29 **swing state**)
-3. Pennsylvania (20)
-4. Illinois (20 **swing state**)
-5. New Jersey (14 **swing state**)
+1. Florida (29 **swing state**)
+2. California (55) 
+3. Illinois (20 **swing state**) 
+4. New Jersey (14 **swing state**) 
+5. Pennsylvania (20)
 6. Virginia (13)
 7. Washington (12)
 8. Arizona (11)  
