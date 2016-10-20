@@ -32,7 +32,7 @@ tl;dr: George Soros is loosely involved with a company (Smartmatic) that supplie
 # What States are in Danger?
 
 **Total electoral votes in jeporady:**
-## **223**
+## **233**
 
 Ranked by importance: 
 
