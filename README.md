@@ -37,22 +37,27 @@ tl;dr: George Soros is loosely involved with a company (Smartmatic) that supplie
 Ranked by importance: 
 
 1. Florida (29 **swing state**)
-2. California (55) 
-3. Illinois (20 **swing state**) 
-4. New Jersey (14 **swing state**) 
-5. Pennsylvania (20)
-6. Virginia (13)
-7. Washington (12)
-8. Arizona (11)  
-9. Wisconsin (10) 
-10. Michigan (10) 
-11. Colorado (9) 
-12. Oregon (7) 
-13. Nevada (6)
-14. DC (3)
-15. Louisiana (8 red)
-16. Missouri (6 red)
+2. Illinois (20 **swing state**)
+3. Pennsylvania (20 **swing state**)
+4. New Jersey (14 **swing state**)
+5. Virginia (13 **swing state**)
+6. Wisconsin (10 **swing state**)
+7. Michigan (10 **swing state**)
+8. Colorado (9 **swing state**)
+9. Nevada (6 **swing state**)
+10. Louisiana (8 red)
+11. Missouri (6 red)
+12. California (55)
+13. Washington (12)
+14. Arizona (11)  
+15. Oregon (7) 
+16. DC (3)
 
+#### Methodology
+
+How swing state status was determined utilizing [politico](http://www.politico.com/2016-election/swing-states) polling data and [historical](https://en.wikipedia.org/wiki/Swing_state#Historical_swing_states) swing states.
+
+Weighting: Swing states are given priority, then red states and then blue states. Subsets are ordered by electoral count.
 
 ### Special Thanks
 
