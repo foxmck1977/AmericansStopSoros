@@ -1,4 +1,5 @@
-NOTE: There was a proposed WI change. We don't have a process for changing the data and we need to protect its integrity against CTR. Therefore, until we have a proper process I'll list both lists divided by a line. If the top number doesn't work try the one listed in the second list.
+NOTE: There was a proposed WI change. We don't have a process for changing the data and we need to protect its integrity against CTR.
+Therefore, until we have a proper process I'll list both lists divided by a line. If the top number doesn't work try the one listed in the second list.
 
 Adams County Board of Elections Friendship, WI 53934    608-339-4200
 Ashland County Board of Elections   Ashland, WI 54806   715-682-7016
