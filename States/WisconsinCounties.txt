@@ -1,3 +1,5 @@
+NOTE: There was a proposed WI change. We don't have a process for changing the data and we need to protect its integrity against CTR. Therefore, until we have a proper process I'll list both lists divided by a line. If the top number doesn't work try the one listed in the second list.
+
 Adams County Board of Elections Friendship, WI 53934    608-339-4200
 Ashland County Board of Elections   Ashland, WI 54806   715-682-7016
 Barron County Board of Elections    Barron, WI 54812    715-537-6200
@@ -64,3 +66,78 @@ Waukesha County Board of Elections  Waukesha, WI 53188  262-548-7010
 Waupaca County Board of Elections   Waupaca, WI 54981   715-258-6200
 Waushara County Board of Elections  Wautoma, WI 54982   920-787-0442
 Winnebago County Board of Elections Oshkosh, WI 54901   920-236-4888
+
+--------------------------------------------------------------------
+
+Adams County Board of Elections Friendship, WI 53934    608-339-4200
+Ashland County Board of Elections   Ashland, WI 54806   715-682-7000
+Barron County Board of Elections    Barron, WI 54812    715-537-6200
+Bayfield County Board of Elections  Washburn, WI 54891  715-373-6100
+Brown County Board of Elections Green Bay, WI 54301 920-448-4016
+Buffalo County Board of Elections   Alma, WI 54610  608-685-6209
+Burnett County Board of Elections   Siren, WI 54872 715-349-2173
+Calumet County Board of Elections   Chilton, WI 53014   920-849-1458
+Chippewa County Board of Elections  Chippewa Falls, WI 54729   715-726-7980
+Clark County Board of Elections Neillsville, WI 54456   715-743-5148
+Columbia County Board of Elections  Portage, WI 53901   608-742-9654
+Crawford County Board of Elections  Prairie du Chien, WI 53821  608-326-0200
+Dane County Board of Elections  Madison, WI 53703   608-266-4121
+Dodge County Board of Elections Juneau, WI 53039    920-386-3600
+Door County Board of Elections  Sturgeon Bay, WI 54235  920-746-2200
+Douglas County Board of Elections   Superior, WI 54880  715-395-1341
+Dunn County Board of Elections  Menomonie, WI 54751 715-232-1677
+Eau Claire County Board of Elections    Eau Claire, WI 54703    715-839-4803
+Florence County Board of Elections  Florence, WI 54121  715-528-3201
+Fond du Lac County Board of Elections   Fond du Lac, WI 54936   920-929-3000
+Forest County Board of Elections    Crandon, WI 54520   715-478-2422
+Grant County Board of Elections Lancaster, WI 53813 608-723-2675
+Green County Board of Elections Monroe, WI 53566    608-328-9430
+Green Lake County Board of Elections    Green Lake, WI 54941    920-294-4007
+Iowa County Board of Elections  Dodgeville, WI 53533    608-935-0399
+Iron County Board of Elections  Hurley, WI 54534    715-561-3375
+Jackson County Board of Elections   Black River Falls, WI 54615 715-284-0201
+Jefferson County Board of Elections Jefferson, WI 53549 920-674-8630
+Juneau County Board of Elections    Mauston, WI 53948   608-847-9300
+Kenosha County Board of Elections   Kenosha, WI 53140   262-653-2552
+Kewaunee County Board of Elections  Kewaunee, WI 54216  920-388-7133
+La Crosse County Board of Elections La Crosse, WI 54601 608-785-9581
+Lafayette County Board of Elections Darlington, WI 53530    608-776-4850
+Langlade County Board of Elections  Antigo, WI 54409    715-627-6200
+Lincoln County Board of Elections   Merrill, WI 54452   715-539-1019
+Manitowoc County Board of Elections   Manitowoc, WI 54220   920-683-4003
+Marathon County Board of Elections  Wausau, WI 54403    715-261-1500
+Marinette County Board of Elections Marinette, WI 54143 715-732-7406
+Marquette County Board of Elections Montello, WI 53949  608-297-3016
+Menominee County Board of Elections Keshena, WI 54135   715-799-3311
+Milwaukee County Board of Elections Milwaukee, WI 53233 414-278-4067
+Monroe County Board of Elections    Sparta, WI 54656    608-269-8705
+Oconto County Board of Elections    Oconto, WI 54153    920-834-6800
+Oneida County Board of Elections    Rhinelander, WI 54501   715-369-6144
+Outagamie County Board of Elections Appleton, WI 54911  920-832-5077
+Ozaukee County Board of Elections   Port Washington, WI 53074   262-284-8110
+Pepin County Board of Elections Durand, WI 54736    715-672-8857
+Pierce County Board of Elections    Ellsworth, WI 54011 715-273-6744 OR 715-273-6796
+Polk County Board of Elections  Balsam Lake, WI 54810   715-485-9226
+Portage County Board of Elections   Stevens Point, WI 54481 715-346-1351
+Price County Board of Elections   Phillips, WI 54555   715-339-3325
+Racine County Board of Elections    Racine, WI 53403    262-636-3121 OR 1-800-242-4202
+Richland County Board of Elections  Richland Center, WI 53581   608-647-2197
+Rock County Board of Elections  Janesville, WI 53545    608-757-5660
+Rusk County Board of Elections  Ladysmith, WI 54848 715-532-2100
+Sauk County Board of Elections  Baraboo, WI 53913   608-355-3286
+Sawyer County Board of Elections    Hayward, WI 54843   715-634-4866
+Shawano County Board of Elections   Shawano, WI 54166   715-526-9150
+Sheboygan County Board of Elections   Sheboygan, WI 53081   920-459-3003
+St Croix County Board of Elections  Hudson, WI 54016    715-386-4607 OR 715-386-4608
+Taylor County Board of Elections    Medford, WI 54451   715-748-1460
+Trempealeau County Board of Elections   Whitehall, WI 54773 715-538-2311
+Vernon County Board of Elections    Viroqua, WI 54665   608-637-5380
+Vilas County Board of Elections Eagle River, WI 54521   715-479-3600
+Walworth County Board of Elections  Elkhorn, WI 53121   262-741-4241
+Washburn County Board of Elections  Shell Lake, WI 54871    715-468-4600
+Washington County Board of Elections    West Bend, WI 53095 262-335-4400
+Waukesha County Board of Elections  Waukesha, WI 53188  262-548-7010
+Waupaca County Board of Elections   Waupaca, WI 54981   715-258-6200
+Waushara County Board of Elections  Wautoma, WI 54982   920-787-0442
+Winnebago County Board of Elections Oshkosh, WI 54901   920-236-4888 OR 920-727-2880
+Wood County Board of Elections   Wisconsin Rapids, WI 54495   715-421-8460
