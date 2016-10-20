@@ -2,7 +2,7 @@
 
 These are text files that follow the format xCounties.txt. They contain names, address and phone numbers for state's counties.
 
-Every state document listed is a state that is infected with Soros connected voting machines. Visit the importance ranking to determine effective use of effort [here](https://github.com/HelloKitty/AmericansStopSoros/blob/master/README.md)
+Every state document listed is a state that is infected with Soros connected voting machines. Visit the importance ranking to determine effective use of effort [here](https://github.com/HelloKitty/AmericansStopSoros/blob/master/README.md).
 
 ### Proposed Parsing Format
 
