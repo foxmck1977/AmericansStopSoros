@@ -52,3 +52,8 @@ Ranked by importance:
 14. DC (3)
 15. Louisiana (8 red)
 16. Missouri (6 red)
+
+
+### Special Thanks
+
+Thanks to /r/The_Donald, 4chan, /pol/ and members who campaigned against the CTR shills such as /u/jamesgalb.
