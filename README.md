@@ -28,8 +28,9 @@ Arizona California Colorado DC Florida Illinois Louisiana Michigan Missouri New 
 # What States are in Danger?
 
 **Total electoral votes in jeporady:**
+## **223**
 
-Ranked by importance: **223**
+Ranked by importance: 
 
 1. California (55)
 2. Florida (29 **swing state**)
@@ -45,6 +46,6 @@ Ranked by importance: **223**
 12. Oregon (7) 
 13. Nevada (6)
 14. DC (3)
-15. Louisiana (8)
-16. Missouri (6)
+15. Louisiana (8 red)
+16. Missouri (6 red)
               
