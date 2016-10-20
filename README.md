@@ -25,7 +25,7 @@ Repeat this for 16 different states...**
 > The 16 affected states are:
 Arizona, California, Colorado, DC, Florida, Illinois, Louisiana, Michigan, Missouri, New Jersey, Nevada, Oregon, Pennsylvania, Virginia, Washington, Wisconsin.
 
-For more information visit: [reddit](https://www.reddit.com/r/The_Donald/comments/58ffs6/operation_stop_soros_crowd_sourced_weaponized/) or [/pol/](https://boards.4chan.org/pol/thread/93781257)
+For more information visit: [reddit](https://www.reddit.com/r/The_Donald/comments/58ffs6/operation_stop_soros_crowd_sourced_weaponized/) or [/pol/](https://boards.4chan.org/pol/thread/93781257) [/pol/2](https://boards.4chan.org/pol/thread/93796259)
 
 tl;dr: George Soros is loosely involved with a company (Smartmatic) that supplies voting machines for the affected aforementioned 16 states. These states are almost all democratic or swing states.
 
