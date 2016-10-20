@@ -29,9 +29,11 @@ For more information visit: [reddit](https://www.reddit.com/r/The_Donald/comment
 
 tl;dr: George Soros is loosely involved with a company (Smartmatic) that supplies voting machines for the affected aforementioned 16 states. These states are almost all democratic or swing states.
 
-# Smartmatic
+# Smartmatic (Seqouia)
 
 They are the vechile of Soros' potentially weaponized voting machines. Smartmatic has been suspected in rigging elections in other countries which can be found in this 1.4(b) classified [leaked document](https://wikileaks.org/plusd/cables/06CARACAS2063_a.html) from Wikileaks.
+
+What is Seqouia? Why did the officials tell me they use Seqouia and not Smartmatic? "The company is thought to be backing out of Venezuelan electoral events, focusing now on other parts of world, including the United States via its subsidiary, Sequoia." is a quote from the leaked election rigging document from Wikileaks found [here](https://wikileaks.org/plusd/cables/06CARACAS2063_a.html).
 
 # How to Edit
 
