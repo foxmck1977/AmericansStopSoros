@@ -23,7 +23,7 @@ Repeat this for 16 different states...**
 > I'm compiling a list of every single county's Board of Elections in all 16 states affected by the Smartmatic/Soros machines so we can spam it to the entire internet and get everyone calling their local government, and get them to switch to paper ballots. **Soros is trying to steal the election. We're going to steal it back!**
 
 > The 16 affected states are:
-Arizona California Colorado DC Florida Illinois Louisiana Michigan Missouri New Jersey Nevada Oregon Pennsylvania Virginia Washington Wisconsin
+Arizona, California, Colorado, DC, Florida, Illinois, Louisiana, Michigan, Missouri, New Jersey, Nevada, Oregon, Pennsylvania, Virginia, Washington, Wisconsin.
 
 # What States are in Danger?
 
