@@ -29,6 +29,10 @@ For more information visit: [reddit](https://www.reddit.com/r/The_Donald/comment
 
 tl;dr: George Soros is loosely involved with a company (Smartmatic) that supplies voting machines for the affected aforementioned 16 states. These states are almost all democratic or swing states.
 
+# Smartmatic
+
+They are the vechile of Soros' potentially weaponized voting machines. Smartmatic has been suspected in rigging elections in other countries which can be found in this [leaked document](https://wikileaks.org/plusd/cables/06CARACAS2063_a.html) from Wikileaks.
+
 # What States are in Danger?
 
 **Total electoral votes in jeopardy:**
@@ -61,4 +65,4 @@ Weighting: Swing states are given priority, then red states and then blue states
 
 ### Special Thanks
 
-Thanks to /r/The_Donald, 4chan, /pol/ and members who campaigned against the CTR shills such as /u/jamesgalb.
+Thanks to /r/The_Donald, 4chan, /pol/ and members who campaigned against the CTR shills such as /u/jamesgalb and /u/medium_rare_pepe
