@@ -55,7 +55,7 @@ Ranked by importance:
 
 #### Methodology
 
-How swing state status was determined utilizing [politico](http://www.politico.com/2016-election/swing-states) polling data and [historical](https://en.wikipedia.org/wiki/Swing_state#Historical_swing_states) swing states.
+Swing state status was determined utilizing [politico](http://www.politico.com/2016-election/swing-states) polling data and [historical](https://en.wikipedia.org/wiki/Swing_state#Historical_swing_states) swing states.
 
 Weighting: Swing states are given priority, then red states and then blue states. Subsets are ordered by electoral count.
 
