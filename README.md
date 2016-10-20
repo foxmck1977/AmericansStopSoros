@@ -25,6 +25,9 @@ Repeat this for 16 different states...**
 > The 16 affected states are:
 Arizona, California, Colorado, DC, Florida, Illinois, Louisiana, Michigan, Missouri, New Jersey, Nevada, Oregon, Pennsylvania, Virginia, Washington, Wisconsin.
 
+
+tl;dr: George Soros is loosely involved with a company (Smartmatic) that supplies voting machines for the affected aforementioned 16 states. These states are almost all democratic or swing states.
+
 # What States are in Danger?
 
 **Total electoral votes in jeporady:**
