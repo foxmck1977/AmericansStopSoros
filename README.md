@@ -31,7 +31,7 @@ tl;dr: George Soros is loosely involved with a company (Smartmatic) that supplie
 
 # Smartmatic
 
-They are the vechile of Soros' potentially weaponized voting machines. Smartmatic has been suspected in rigging elections in other countries which can be found in this [leaked document](https://wikileaks.org/plusd/cables/06CARACAS2063_a.html) from Wikileaks.
+They are the vechile of Soros' potentially weaponized voting machines. Smartmatic has been suspected in rigging elections in other countries which can be found in this 1.4(b) classified [leaked document](https://wikileaks.org/plusd/cables/06CARACAS2063_a.html) from Wikileaks.
 
 # What States are in Danger?
 
